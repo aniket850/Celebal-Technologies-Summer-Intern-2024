@@ -1,5 +1,6 @@
-# Celebal-Technologies-Summer-Intern-2024
+# Celebal-Technologies-Summer-Internship-2024
 TOPIC - Cloud infra & Security  
+
 Assignment 1 Week  
 Assignment 2 Week  
 Assignment 3 Week  
